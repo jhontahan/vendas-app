@@ -1,3 +1,4 @@
+import 'bulma/css/bulma.css'
 export default function RootLayout({
   children,
 }: {

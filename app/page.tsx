@@ -1,8 +1,10 @@
-
+import {Layout} from 'components'
 const Home: React.FC = () =>{
     return (
         <div>
-          Bem vindo!
+
+          <Layout />
+          
         </div>
     )
 
